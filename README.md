@@ -7,7 +7,7 @@ New changes null
 
 Daw-An added this line on his laptop
 
-Add info
+Add info more info
 
 local changes
 online changes
