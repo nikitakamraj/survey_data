@@ -3,11 +3,11 @@
 
 New data with encoding
 
-New changes \^-^/
+New changes null
 
 Daw-An added this line on his laptop
 
-Add info more info
+Add info
 
 local changes
 online changes
